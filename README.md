@@ -5,7 +5,7 @@
 1.  **複製專案到本地**
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/U-CLIMAX/ws-tcg-scraper
     cd ws-crawler
     ```
 
