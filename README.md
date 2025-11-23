@@ -6,7 +6,7 @@
 
     ```bash
     git clone https://github.com/U-CLIMAX/ws-tcg-crawler
-    cd ws-crawler
+    cd ws-tcg-crawler
     ```
 
 2.  **安裝相依套件**
